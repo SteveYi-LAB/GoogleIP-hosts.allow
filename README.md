@@ -4,11 +4,11 @@
 
 # What is it?
 
-It is Google IP block list for hosts.allow(linux sshd hosts allow)
+This is a Google IP range, and we organize it into a host.allow file.
 
-If you use GCP(Google Cloud Platform), this is for you!
+If you’re a GCP (Google Cloud Platform) service user, this is for you!
 
-We use these command to get these ip range.
+We use the commands below  to collect the IP range:
 
 ```
 nslookup -q=TXT _netblocks.google.com 8.8.8.8
