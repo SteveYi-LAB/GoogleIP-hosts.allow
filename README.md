@@ -1,3 +1,4 @@
+[README](README.md) | [中文文檔](README_zh.md)
 # GoogleIP Range hosts.allow
 
 # What is it?
