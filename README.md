@@ -1,8 +1,10 @@
-# Google-hosts.allow
+# GoogleIP Range hosts.allow
 
 # What is it?
 
 It is Google IP block list for hosts.allow(linux sshd hosts allow)
+
+If you use GCP(Google Cloud Platform), this is for you!
 
 We use these command to get these ip range.
 
